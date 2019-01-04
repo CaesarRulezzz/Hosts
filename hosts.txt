@@ -333,3 +333,4 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 telemetry.api.swiftkey.com # swiftkey telemetry?
 127.0.0.1 system.unitedclick.ru
+127.0.0.1 open.oneplus.net
