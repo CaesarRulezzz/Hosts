@@ -334,3 +334,4 @@
 127.0.0.1 telemetry.api.swiftkey.com # swiftkey telemetry?
 127.0.0.1 system.unitedclick.ru
 127.0.0.1 open.oneplus.net
+127.0.0.1 crashlytics.com
