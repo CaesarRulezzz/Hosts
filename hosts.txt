@@ -335,3 +335,4 @@
 127.0.0.1 system.unitedclick.ru
 127.0.0.1 open.oneplus.net
 127.0.0.1 crashlytics.com
+127.0.0.1 yandexmusicstat.ru
